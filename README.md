@@ -1,4 +1,4 @@
-# AHRS_RS232_Text
+# AHRS_Calibratie
 GitHub -> [ntrexlab/AHRS_Calibratie](https://github.com/ntrexlab/AHRS_Calibratie)
 ***
 ## **Manual**
