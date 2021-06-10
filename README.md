@@ -16,7 +16,6 @@ GitHub -> [ntrexlab/AHRS_Calibratie](https://github.com/ntrexlab/AHRS_Calibratie
 
 ***
 * ### 2.Tool
-    * #### 사용버전
     - AHRS_UI_180808 [설치경로-관련자료](http://www.devicemart.co.kr/goods/view?no=1310790#goods_file)
 ***
 
